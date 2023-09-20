@@ -1,0 +1,80 @@
+.parallax_container,.animation_layer{
+    height:400px;
+}
+.animation_layer{
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: auto 400px;
+    width: 100%;
+    position: absolute;
+}
+.parallax_container{
+    display: block;
+    position:relative;
+    z-index:10;
+}
+.img_parallax{
+    width: 250px;
+    height: 250px;
+}
+.container{
+    display: flex;
+}
+
+#first{
+   background-image:url(../../resources/main\ ft.jpeg); 
+   background-size: auto 1000px;
+   background-position:center;
+   margin-top:-500px;
+}
+#second{
+    background-image: url(../../resources/about2.png);
+}
+#third{
+    background-image:url(../../resources/about3.png);
+    background-size: auto 500px;
+}
+#fourth{
+    background-image:url(../../resources/about4.png);
+    margin-top:600px;
+}
+.bg_img_middle{
+    background-position:bottom center;
+}
+.bg_img_left{
+    background-position:left center;
+    margin-left:100px;
+}
+.bg_img_right{
+    background-position: center;
+    margin-left:300px;
+}
+.text_middle{
+    text-align: center;
+    padding:0 200px 0 20px;
+}
+.text_right{
+    text-align: right;
+    padding:0 200px 0 900px;
+}
+.text_left{
+    text-align: left;
+    padding:0 1000px 0 200px;
+}
+.title{
+    font-size:50px;
+    margin-top:200px;
+}
+.hero_banner{
+    margin-top:-300px;
+    font-size:30px;
+}
+strong{
+    color:var(--clr-primary);
+}
+.gap{
+    margin-bottom:300px; 
+}
+.anchor{
+    margin-top:-500px;
+}

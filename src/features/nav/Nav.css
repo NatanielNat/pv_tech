@@ -1,0 +1,51 @@
+.container {
+    background: rgba(0, 0, 0, 0.8);
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    padding: 10px;
+    backdrop-filter: blur(10px);
+    z-index: 10;
+    position: sticky;
+}
+
+.navbar a {
+    padding: 10px;
+    border-radius:24px;
+    margin:0 8px;
+    text-decoration: none;
+    outline: none;
+    color: var(--clr-white);
+    transition: 0.5s;
+}
+.active{
+ color:var(--clr-primary);
+ background:var(--clr-primary);
+}
+
+.img_logo{
+    width:300px;
+}
+
+
+/* =================== HOVER ==================  */
+
+.hover {
+    --c: linear-gradient(var(--clr-primary) 0 0);
+
+    padding-bottom: .15em;
+    background: var(--c), var(--c);
+    background-size: .3em .1em;
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    transition: .3s linear, background-size .3s .2s linear;
+}
+
+.hover:hover {
+    background-size: 60% .1em;
+    background-position: 10% 100%, 90% 100%;
+}
