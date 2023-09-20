@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.ac3d03f9.js",
-    "static/js/787.f9566092.chunk.js": "/static/js/787.f9566092.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.ac3d03f9.js.map": "/static/js/main.ac3d03f9.js.map",
-    "787.f9566092.chunk.js.map": "/static/js/787.f9566092.chunk.js.map"
+    "main.css": "/pv_tech/static/css/main.08f76a7a.css",
+    "main.js": "/pv_tech/static/js/main.8e6b7cca.js",
+    "static/js/787.f9566092.chunk.js": "/pv_tech/static/js/787.f9566092.chunk.js",
+    "static/media/about3.png": "/pv_tech/static/media/about3.0153d6758a78a1f2c0de.png",
+    "static/media/20230602_120849.jpg": "/pv_tech/static/media/20230602_120849.e754c9608154431db112.jpg",
+    "static/media/about2.png": "/pv_tech/static/media/about2.84d4b83c86e839b787ea.png",
+    "static/media/main ft.jpeg": "/pv_tech/static/media/main ft.ddcf46204cabccff1cb5.jpeg",
+    "static/media/about4.png": "/pv_tech/static/media/about4.b9afc73a428e882915c4.png",
+    "static/media/5509942.jpg": "/pv_tech/static/media/5509942.c1ebdc496e4e3cb20e64.jpg",
+    "static/media/050420_10.jpg.mst.webp": "/pv_tech/static/media/050420_10.jpg.mst.85a8c89badaa9338cb3a.webp",
+    "static/media/image.webp": "/pv_tech/static/media/image.4094318d04d2101a8baf.webp",
+    "static/media/pv_3_lieferumfang.jpg": "/pv_tech/static/media/pv_3_lieferumfang.58fd8bfc5072ffc6b99e.jpg",
+    "static/media/logo_m-228w.webp": "/pv_tech/static/media/logo_m-228w.5689ae1a8ec9999a7c7d.webp",
+    "index.html": "/pv_tech/index.html",
+    "main.08f76a7a.css.map": "/pv_tech/static/css/main.08f76a7a.css.map",
+    "main.8e6b7cca.js.map": "/pv_tech/static/js/main.8e6b7cca.js.map",
+    "787.f9566092.chunk.js.map": "/pv_tech/static/js/787.f9566092.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ac3d03f9.js"
+    "static/css/main.08f76a7a.css",
+    "static/js/main.8e6b7cca.js"
   ]
 }
