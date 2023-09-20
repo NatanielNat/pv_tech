@@ -1,7 +1,7 @@
 {
   "name": "pv-tech-copy",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://natanielnat.github.io/pv_tech/",
   "private": true,
   "dependencies": {
     "@react-spring/web": "^9.7.3",
@@ -12,6 +12,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.16.0",
+    "react-router-dom": "^6.16.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
